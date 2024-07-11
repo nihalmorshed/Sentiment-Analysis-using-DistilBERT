@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project demonstrates the implementation of a sentiment analysis model using the DistilBERT transformer. TDistilBERT is a small, fast, cheap and light Transformer model trained by distilling BERT base. It has 40% less parameters than google-bert/bert-base-uncased, runs 60% faster while preserving over 95% of BERT’s performances as measured on the GLUE language understanding benchmark.. The project showcases the powerful capabilities of transformer-based models in natural language processing tasks.
+This project demonstrates the implementation of a sentiment analysis model using the DistilBERT transformer. DistilBERT is a small, fast, cheap, and light Transformer model trained by distilling BERT base. It has 40% fewer parameters than google-bert/bert-base-uncased, and runs 60% faster while preserving over 95% of BERT’s performances as measured on the GLUE language understanding benchmark. The project showcases the powerful capabilities of transformer-based models in natural language processing tasks.
 
 ## Dataset
 
