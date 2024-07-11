@@ -38,8 +38,8 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/nihalmorshed/sentiment-analysis-distilbert.git
-cd sentiment-analysis-distilbert
+git clone https://github.com/nihalmorshed/Sentiment-Analysis-using-DistilBERT
+cd Sentiment-Analysis-using-DistilBERT
 ```
 
 2. **Install the Required Libraries:**
